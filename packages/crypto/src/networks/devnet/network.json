@@ -1,11 +1,16 @@
 {
   "name": "devnet",
+<<<<<<< HEAD
   "messagePrefix": "AIR message:\n",
+=======
+  "messagePrefix": "MINE message:\n",
+>>>>>>> 1f85ef7298f73ca371b8f2835ef5178be00345a6
   "bip32": {
     "public": 46090600,
     "private": 46089520
   },
   "pubKeyHash": 30,
+<<<<<<< HEAD
   "nethash": "b0b158fb11a5c40d90e8988e82a6733bcf94a7dcbbd2f0658a2cc3988579a860",
   "wif": 162,
   "slip44": 1,
@@ -14,5 +19,15 @@
     "token": "AIR",
     "symbol": "Ã",
     "explorer": "http://0.0.0.0:4200"
+=======
+  "nethash": "72e693c43cd89a67db47329c22524f921a0e5d1518a30e28510831f1d93bf015",
+  "wif": 167,
+  "slip44": 1,
+  "aip20": 1,
+  "client": {
+    "token": "MINE",
+    "symbol": "M",
+    "explorer": "http://165.227.213.194:4200"
+>>>>>>> 1f85ef7298f73ca371b8f2835ef5178be00345a6
   }
 }

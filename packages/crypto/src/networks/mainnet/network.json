@@ -1,11 +1,16 @@
 {
   "name": "mainnet",
+<<<<<<< HEAD
   "messagePrefix": "AIR message:\n",
+=======
+  "messagePrefix": "MINE message:\n",
+>>>>>>> 1f85ef7298f73ca371b8f2835ef5178be00345a6
   "bip32": {
     "public": 46090600,
     "private": 46089520
   },
   "pubKeyHash": 50,
+<<<<<<< HEAD
   "nethash": "8f472053a344b62a3c43846f8122511093f0e3eda8b0d38fe09ee3481b0c35a7",
   "wif": 164,
   "slip44": 111,
@@ -14,5 +19,15 @@
     "token": "AIR",
     "symbol": "Ã",
     "explorer": "http://0.0.0.0:4200"
+=======
+  "nethash": "2880499313bb0fca590d04a4536d54f8cd4ae55dcae3800ed4799df75eba95e2",
+  "wif": 97,
+  "slip44": 111,
+  "aip20": 0,
+  "client": {
+    "token": "MINE",
+    "symbol": "M",
+    "explorer": "http://165.227.213.194:4200"
+>>>>>>> 1f85ef7298f73ca371b8f2835ef5178be00345a6
   }
 }

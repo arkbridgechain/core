@@ -6,10 +6,17 @@
     "blocktime": 8,
     "block": {
       "version": 0,
+<<<<<<< HEAD
       "maxTransactions": 150,
       "maxPayload": 6291456
     },
     "epoch": "2021-06-06T09:33:52.654Z",
+=======
+      "maxTransactions": 50,
+      "maxPayload": 2097152
+    },
+    "epoch": "2020-02-13T19:14:52.909Z",
+>>>>>>> 1f85ef7298f73ca371b8f2835ef5178be00345a6
     "fees": {
       "staticFees": {
         "transfer": 10000000,
@@ -19,8 +26,12 @@
         "multiSignature": 500000000
       }
     },
+<<<<<<< HEAD
     "htlcEnabled": false,
     "vendorFieldLength": 255
+=======
+    "htlcEnabled": false
+>>>>>>> 1f85ef7298f73ca371b8f2835ef5178be00345a6
   },
   {
     "height": 2,
